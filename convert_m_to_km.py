@@ -1,7 +1,7 @@
 from kivy.app import App
 from kivy.lang import Builder
 
-__author__ = 'Lindsay Ward'
+__author__ = 'Lynn Myat Aung'
 
 MILES_TO_KM = 1.60934
 
